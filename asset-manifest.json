@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MegaCrypto_/static/css/main.7e1f0953.chunk.css",
+    "main.js": "/MegaCrypto_/static/js/main.c763a055.chunk.js",
+    "main.js.map": "/MegaCrypto_/static/js/main.c763a055.chunk.js.map",
+    "runtime-main.js": "/MegaCrypto_/static/js/runtime-main.543fff14.js",
+    "runtime-main.js.map": "/MegaCrypto_/static/js/runtime-main.543fff14.js.map",
+    "static/css/2.383c0125.chunk.css": "/MegaCrypto_/static/css/2.383c0125.chunk.css",
+    "static/js/2.9c5cfa95.chunk.js": "/MegaCrypto_/static/js/2.9c5cfa95.chunk.js",
+    "static/js/2.9c5cfa95.chunk.js.map": "/MegaCrypto_/static/js/2.9c5cfa95.chunk.js.map",
+    "static/js/3.8e33e966.chunk.js": "/MegaCrypto_/static/js/3.8e33e966.chunk.js",
+    "static/js/3.8e33e966.chunk.js.map": "/MegaCrypto_/static/js/3.8e33e966.chunk.js.map",
+    "index.html": "/MegaCrypto_/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/MegaCrypto_/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.7e1f0953.chunk.css.map": "/MegaCrypto_/static/css/main.7e1f0953.chunk.css.map",
+    "static/js/2.9c5cfa95.chunk.js.LICENSE.txt": "/MegaCrypto_/static/js/2.9c5cfa95.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MegaCrypto_/static/media/Chomsky.8b6d9524.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543fff14.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.9c5cfa95.chunk.js",
+    "static/css/main.7e1f0953.chunk.css",
+    "static/js/main.c763a055.chunk.js"
+  ]
+}
